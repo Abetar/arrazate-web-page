@@ -1,0 +1,40 @@
+@media (max-width: 1024px)
+{
+
+}
+
+@media (max-width:767px)
+{
+
+}
+
+@media (max-width: 524px)
+{
+    .productoSection{
+        display: inherit;
+        max-height: none;
+        flex-wrap: wrap;
+    }
+
+    .productoSection .productList{
+        display: block;
+    }
+
+    .product{
+        margin-top: auto;
+        text-align: center;
+    }
+
+    .productoSection .productList .product .productImage img
+    {
+        height: auto;
+        width: 100%;
+    }
+
+    .customProductSection .productData .inputMail{
+        width: 75%;
+    }
+    .customProductSection .productData .descProduct {
+        width: 75%;
+    }
+}
