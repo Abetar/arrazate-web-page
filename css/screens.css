@@ -34,6 +34,11 @@
     .customProductSection .productData .inputMail{
         width: 75%;
     }
+
+    .customProductSection .productData .inputPhone {
+        width: 75%;
+    }
+
     .customProductSection .productData .descProduct {
         width: 75%;
     }
